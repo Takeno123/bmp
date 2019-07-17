@@ -3,12 +3,45 @@
         "width": 600,
         "height": 4,
         "brightness": 255,
-        "coordinate": [23,23],
-        "line": 6,
+        "coordinate": [20,20],
+        "line": 4,
         "column": 1,
-        "vertical_spacing": 110,
+        "vertical_spacing": 143,
         "horizontal_spacing": 0
     },
 
-    "reverse": 0
+    "paint2": {
+        "width": 600,
+        "height": 5,
+        "brightness": 255,
+        "coordinate": [20,54],
+        "line": 4,
+        "column": 1,
+        "vertical_spacing": 142,
+        "horizontal_spacing": 0
+    },
+
+    "paint3": {
+        "width": 600,
+        "height": 8,
+        "brightness": 255,
+        "coordinate": [20,89],
+        "line": 4,
+        "column": 1,
+        "vertical_spacing": 139,
+        "horizontal_spacing": 0
+    },
+
+    "paint4": {
+        "width": 600,
+        "height": 10,
+        "brightness": 255,
+        "coordinate": [20,127],
+        "line": 4,
+        "column": 1,
+        "vertical_spacing": 137,
+        "horizontal_spacing": 0
+    },
+
+    "reverse": 1
 }
