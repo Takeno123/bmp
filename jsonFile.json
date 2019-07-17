@@ -1,0 +1,14 @@
+{
+    "paint1": {
+        "width": 600,
+        "height": 4,
+        "brightness": 255,
+        "coordinate": [23,23],
+        "line": 6,
+        "column": 1,
+        "vertical_spacing": 110,
+        "horizontal_spacing": 0
+    },
+
+    "reverse": 0
+}
